@@ -1,0 +1,337 @@
+{
+    "headerList": [
+        {
+            "name": "户型",
+            "isShow": false,
+            "children": [
+                {
+                    "title": "一室",
+                    "url": "/xiaoguotu/b1"
+                },
+                {
+                    "title": "二室",
+                    "url": "/xiaoguotu/b3"
+                },
+                {
+                    "title": "三室",
+                    "url": "/xiaoguotu/b6"
+                },
+                {
+                    "title": "四室",
+                    "url": "/xiaoguotu/b9"
+                }
+            ]
+        },
+        {
+            "name": "区域",
+            "isShow": false,
+            "children": [
+                {
+                    "title": "客厅",
+                    "url": "/xiaoguotu/c2"
+                },
+                {
+                    "title": "餐厅",
+                    "url": "/xiaoguotu/c3"
+                },
+                {
+                    "title": "厨房",
+                    "url": "/xiaoguotu/c4"
+                },
+                {
+                    "title": "卧室",
+                    "url": "/xiaoguotu/c5"
+                }
+            ]
+        },
+        {
+            "name": "风格",
+            "isShow": false,
+            "children": [
+                {
+                    "title": "现代",
+                    "url": "/xiaoguotu/a1"
+                },
+                {
+                    "title": "美式",
+                    "url": "/xiaoguotu/a2"
+                },
+                {
+                    "title": "中式",
+                    "url": "/xiaoguotu/a3"
+                },
+                {
+                    "title": "地中海",
+                    "url": "/xiaoguotu/a4"
+                }
+            ]
+        }
+    ],
+    "mainImg": [
+        {
+            "url": "/designSketch/xiangqing/one",
+            "img_src": "/img/designSketch/1.jpg",
+            "pingfang": "140",
+            "miaoshu": "二居室 北欧...",
+            "jianshu": "现代 二室 1800",
+            "XQ": [
+                {
+                    "XQimg": [
+                        "/img/designSketch/1.jpg",
+                        "/img/designSketch/2.jpg",
+                        "/img/designSketch/3.jpg",
+                        "/img/designSketch/4.jpg",
+                        "/img/designSketch/5.jpg",
+                        "/img/designSketch/6.jpg"
+                    ]
+                },
+                {
+                    "SJQS": "家，是情之所系，就在每个人的心里。世界再大，大不过一个家。"
+                }
+            ]
+        },
+        {
+            "url": "/designSketch/xiangqing/two",
+            "img_src": "/img/designSketch/2.jpg",
+            "pingfang": "130",
+            "miaoshu": "二居室 浅尝...",
+            "jianshu": "简约 二室 1500",
+            "XQ": [
+                {
+                    "XQimg": [
+                        "/img/designSketch/1.jpg",
+                        "/img/designSketch/2.jpg",
+                        "/img/designSketch/3.jpg",
+                        "/img/designSketch/4.jpg",
+                        "/img/designSketch/5.jpg",
+                        "/img/designSketch/6.jpg"
+                    ]
+                },
+                {
+                    "SJQS": "本案业主追求品质生活，希望在有限空间内合理实际好各个空间，同时解决格局不合理，形成空间浪费的问题。结合居住者的喜好及需求，选择了简约温馨的后现代设计风格，使用美观。"
+                }
+            ]
+        },
+        {
+            "url": "/designSketch/xiangqing/three",
+            "img_src": "/img/designSketch/3.jpg",
+            "pingfang": "120",
+            "miaoshu": "给你恰到好处...",
+            "jianshu": "简约 三室 1500",
+            "XQ": [
+                {
+                    "XQimg": [
+                        "/img/designSketch/1.jpg",
+                        "/img/designSketch/2.jpg",
+                        "/img/designSketch/3.jpg",
+                        "/img/designSketch/4.jpg",
+                        "/img/designSketch/5.jpg",
+                        "/img/designSketch/6.jpg"
+                    ]
+                },
+                {
+                    "SJQS": "讲究造型比例适度、空间结构图明确美观，强调外观的明快、简洁。体现了现代生活快节奏、简约和实用，但又富有朝气的生活气息。"
+                }
+            ]
+        },
+        {
+            "url": "/designSketch/xiangqing/four",
+            "img_src": "/img/designSketch/1.jpg",
+            "pingfang": "140",
+            "miaoshu": "二居室 北欧...",
+            "jianshu": "美式 二室 1800",
+            "XQ": [
+                {
+                    "XQimg": [
+                        "/img/designSketch/1.jpg",
+                        "/img/designSketch/2.jpg",
+                        "/img/designSketch/3.jpg",
+                        "/img/designSketch/4.jpg",
+                        "/img/designSketch/5.jpg",
+                        "/img/designSketch/6.jpg"
+                    ]
+                },
+                {
+                    "SJQS": "本案给人的最大感觉是清新、舒适、小资不大众化，特别符合年轻让的审美，无论是客厅、餐厅、还是卧室等空间的颜的搭配都比较丰富，整体看起来就比较有层次。"
+                }
+            ]
+        },
+        {
+            "url": "/designSketch/xiangqing/five",
+            "img_src": "/img/designSketch/2.jpg",
+            "pingfang": "130",
+            "miaoshu": "二居室 浅尝...",
+            "jianshu": "简约 二室 1500",
+            "XQ": [
+                {
+                    "XQimg": [
+                        "/img/designSketch/1.jpg",
+                        "/img/designSketch/2.jpg",
+                        "/img/designSketch/3.jpg",
+                        "/img/designSketch/4.jpg",
+                        "/img/designSketch/5.jpg",
+                        "/img/designSketch/6.jpg"
+                    ]
+                },
+                {
+                    "SJQS": "整体以白色和原木色为主色调，中间加了很多金属、蓝色、黄色的物件，颜色跳脱，在造型设计上不是仿古，也不是复古，而是追求神似。"
+                }
+            ]
+        },
+        {
+            "url": "/designSketch/xiangqing/six",
+            "img_src": "/img/designSketch/3.jpg",
+            "pingfang": "120",
+            "miaoshu": "给你恰到好处...",
+            "jianshu": "地中海 三室 1500",
+            "XQ": [
+                {
+                    "XQimg": [
+                        "/img/designSketch/1.jpg",
+                        "/img/designSketch/2.jpg",
+                        "/img/designSketch/3.jpg",
+                        "/img/designSketch/4.jpg",
+                        "/img/designSketch/5.jpg",
+                        "/img/designSketch/6.jpg"
+                    ]
+                },
+                {
+                    "SJQS": "进门为一个封闭的厨房区域餐厅是先放置冰箱的地方，设计师大刀阔斧的把进门所有的墙体整体拆除，做成开放式的厨房，使得空间得以释放，在餐厅北侧还设计进去一个鞋柜和一个小巧的吧台，业主对设计师提的要求是简约不简单想做出一套跟别人家不一样的设计。所以客厅在整体灰色的背景色下加入了很多跳跃的色彩，个性的灯具，大胆的装饰画还有丰富精致的软装摆件 营造出与众不同的整体感。"
+                }
+            ]
+        },
+        {
+            "url": "/designSketch/xiangqing/one",
+            "img_src": "/img/designSketch/2.jpg",
+            "pingfang": "140",
+            "miaoshu": "二居室 北欧...",
+            "jianshu": "简约 二室 1800",
+            "XQ": [
+                {
+                    "XQimg": [
+                        "/img/designSketch/1.jpg",
+                        "/img/designSketch/2.jpg",
+                        "/img/designSketch/3.jpg",
+                        "/img/designSketch/4.jpg",
+                        "/img/designSketch/5.jpg",
+                        "/img/designSketch/6.jpg"
+                    ]
+                },
+                {
+                    "SJQS": "家，是情之所系，就在每个人的心里。世界再大，大不过一个家。"
+                }
+            ]
+        },
+        {
+            "url": "/designSketch/xiangqing/two",
+            "img_src": "/img/designSketch/2.jpg",
+            "pingfang": "130",
+            "miaoshu": "二居室 浅尝...",
+            "jianshu": "简约 二室 1500",
+            "XQ": [
+                {
+                    "XQimg": [
+                        "/img/designSketch/1.jpg",
+                        "/img/designSketch/2.jpg",
+                        "/img/designSketch/3.jpg",
+                        "/img/designSketch/4.jpg",
+                        "/img/designSketch/5.jpg",
+                        "/img/designSketch/6.jpg"
+                    ]
+                },
+                {
+                    "SJQS": "本案业主追求品质生活，希望在有限空间内合理实际好各个空间，同时解决格局不合理，形成空间浪费的问题。结合居住者的喜好及需求，选择了简约温馨的后现代设计风格，使用美观。"
+                }
+            ]
+        },
+        {
+            "url": "/designSketch/xiangqing/three",
+            "img_src": "/img/designSketch/2.jpg",
+            "pingfang": "120",
+            "miaoshu": "给你恰到好处...",
+            "jianshu": "简约 三室 1500",
+            "XQ": [
+                {
+                    "XQimg": [
+                        "/img/designSketch/1.jpg",
+                        "/img/designSketch/2.jpg",
+                        "/img/designSketch/3.jpg",
+                        "/img/designSketch/4.jpg",
+                        "/img/designSketch/5.jpg",
+                        "/img/designSketch/6.jpg"
+                    ]
+                },
+                {
+                    "SJQS": "讲究造型比例适度、空间结构图明确美观，强调外观的明快、简洁。体现了现代生活快节奏、简约和实用，但又富有朝气的生活气息。"
+                }
+            ]
+        },
+        {
+            "url": "/designSketch/xiangqing/four",
+            "img_src": "/img/designSketch/2.jpg",
+            "pingfang": "140",
+            "miaoshu": "二居室 北欧...",
+            "jianshu": "简约 二室 1800",
+            "XQ": [
+                {
+                    "XQimg": [
+                        "/img/designSketch/1.jpg",
+                        "/img/designSketch/2.jpg",
+                        "/img/designSketch/3.jpg",
+                        "/img/designSketch/4.jpg",
+                        "/img/designSketch/5.jpg",
+                        "/img/designSketch/6.jpg"
+                    ]
+                },
+                {
+                    "SJQS": "本案给人的最大感觉是清新、舒适、小资不大众化，特别符合年轻让的审美，无论是客厅、餐厅、还是卧室等空间的颜的搭配都比较丰富，整体看起来就比较有层次。"
+                }
+            ]
+        },
+        {
+            "url": "/designSketch/xiangqing/five",
+            "img_src": "/img/designSketch/2.jpg",
+            "pingfang": "130",
+            "miaoshu": "二居室 浅尝...",
+            "jianshu": "简约 二室 1500",
+            "XQ": [
+                {
+                    "XQimg": [
+                        "/img/designSketch/1.jpg",
+                        "/img/designSketch/2.jpg",
+                        "/img/designSketch/3.jpg",
+                        "/img/designSketch/4.jpg",
+                        "/img/designSketch/5.jpg",
+                        "/img/designSketch/6.jpg"
+                    ]
+                },
+                {
+                    "SJQS": "整体以白色和原木色为主色调，中间加了很多金属、蓝色、黄色的物件，颜色跳脱，在造型设计上不是仿古，也不是复古，而是追求神似。"
+                }
+            ]
+        },
+        {
+            "url": "/designSketch/xiangqing/six",
+            "img_src": "/img/designSketch/2.jpg",
+            "pingfang": "120",
+            "miaoshu": "给你恰到好处...",
+            "jianshu": "简约 三室 1500",
+            "XQ": [
+                {
+                    "XQimg": [
+                        "/img/designSketch/1.jpg",
+                        "/img/designSketch/2.jpg",
+                        "/img/designSketch/3.jpg",
+                        "/img/designSketch/4.jpg",
+                        "/img/designSketch/5.jpg",
+                        "/img/designSketch/6.jpg"
+                    ]
+                },
+                {
+                    "SJQS": "进门为一个封闭的厨房区域餐厅是先放置冰箱的地方，设计师大刀阔斧的把进门所有的墙体整体拆除，做成开放式的厨房，使得空间得以释放，在餐厅北侧还设计进去一个鞋柜和一个小巧的吧台，业主对设计师提的要求是简约不简单想做出一套跟别人家不一样的设计。所以客厅在整体灰色的背景色下加入了很多跳跃的色彩，个性的灯具，大胆的装饰画还有丰富精致的软装摆件 营造出与众不同的整体感。"
+                }
+            ]
+        }
+    ],
+    "jianjie": "房先森互联网家装有别于传统装修公司与其他装修中介平台，以自营模式整合设计师与项目经理，利用互联网将工地进行在线全景直播，通过去中间环节，提供装修套餐+个性定制化服务。"
+}

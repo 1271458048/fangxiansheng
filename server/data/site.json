@@ -1,0 +1,206 @@
+{
+    "zhibo": [
+        {
+            "id": "1",
+            "loufang": "戈雅公寓24栋",
+            "jieduan": "水电工程",
+            "huxing": "三室",
+            "mianji": "60",
+            "juli": "10km",
+            "zhiboUrl": "/1.jpg",
+            "url": "/site/ga1",
+            "isShow": true
+        },
+        {
+            "id": "2",
+            "loufang": "定山西苑8栋",
+            "jieduan": "泥木工程",
+            "huxing": "四室",
+            "mianji": "60-70",
+            "juli": "10km",
+            "zhiboUrl": "/2.jpg",
+            "url": "/site/ga2",
+            "isShow": true
+        },
+        {
+            "id": "3",
+            "loufang": "空港国际3栋",
+            "jieduan": "油漆工程",
+            "huxing": "二室",
+            "mianji": "90-120",
+            "juli": "10km",
+            "zhiboUrl": "/3.jpg",
+            "url": "/site/ga3",
+            "isShow": true
+        },
+        {
+            "id": "4",
+            "loufang": "御景蓝湾小区",
+            "jieduan": "拆改阶段",
+            "huxing": "一室",
+            "mianji": "60",
+            "juli": "10km",
+            "zhiboUrl": "/4.jpg",
+            "url": "/site/ga4",
+            "isShow": true
+        },
+        {
+            "id": "5",
+            "loufang": "丰隆白桥乡",
+            "jieduan": "竣工验收",
+            "huxing": "三室",
+            "mianji": "60",
+            "juli": "10km",
+            "zhiboUrl": "/5.jpg",
+            "url": "/site/ga5",
+            "isShow": true
+        },
+        {
+            "id": "6",
+            "loufang": "华瑞晴卢",
+            "jieduan": "水电工程",
+            "huxing": "三室",
+            "mianji": "60",
+            "juli": "10km",
+            "zhiboUrl": "/6.jpg",
+            "url": "/site/ga6",
+            "isShow": true
+        },
+        {
+            "id": "7",
+            "loufang": "翡翠城堡",
+            "jieduan": "油漆工程",
+            "huxing": "三室",
+            "mianji": "60",
+            "juli": "10km",
+            "zhiboUrl": "/7.jpg",
+            "url": "/site/ga7",
+            "isShow": true
+        },
+        {
+            "id": "8",
+            "loufang": "蓝天李靖",
+            "jieduan": "水电工程",
+            "huxing": "三室",
+            "mianji": "60",
+            "juli": "10km",
+            "zhiboUrl": "/8.jpg",
+            "url": "/site/ga8",
+            "isShow": true
+        },
+        {
+            "id": "9",
+            "loufang": "信和小区",
+            "jieduan": "水电工程",
+            "huxing": "三室",
+            "mianji": "60",
+            "juli": "10km",
+            "zhiboUrl": "/9.jpg",
+            "url": "/site/ga9",
+            "isShow": true
+        },
+        {
+            "id": "10",
+            "loufang": "信和小区",
+            "jieduan": "水电工程",
+            "huxing": "三室",
+            "mianji": "60",
+            "juli": "10km",
+            "zhiboUrl": "/9.jpg",
+            "url": "/site/ga10",
+            "isShow": true
+        }
+    ],
+    "maplist": [
+        {
+            "id":"123",
+            "name": "戈雅公寓24栋",
+            "jieduan": "水电工程",
+            "huxing": "三室",
+            "mianji": "60",
+            "juli": "10km",
+            "yusuan": "19"
+        },
+        {
+            "id":"234",
+            "name": "哈哈24栋",
+            "jieduan": "水电工程",
+            "huxing": "三室",
+            "mianji": "60",
+            "juli": "10km",
+            "yusuan": "19"
+        },
+        {
+            "id":"345",
+            "name": "123",
+            "jieduan": "水电工程",
+            "huxing": "三室",
+            "mianji": "60",
+            "juli": "10km",
+            "yusuan": "19"
+        },
+        {
+            "id":"456",
+            "name": "1234",
+            "jieduan": "水电工程",
+            "huxing": "三室",
+            "mianji": "60",
+            "juli": "10km",
+            "yusuan": "19",
+            "url": "/site/ga4/4"
+        },
+        {
+            "id":"567",
+            "name": "55555",
+            "jieduan": "水电工程",
+            "huxing": "三室",
+            "mianji": "60",
+            "juli": "10km",
+            "yusuan": "19"
+        },
+        {
+            "id":"789",
+            "name": "666666",
+            "jieduan": "水电工程",
+            "huxing": "三室",
+            "mianji": "60",
+            "juli": "10km"
+        },
+        {
+            "id":"890",
+            "name": "777777",
+            "jieduan": "水电工程",
+            "huxing": "三室",
+            "mianji": "60",
+            "juli": "10km",
+            "yusuan": "19"
+        },
+        {
+            "id":"012",
+            "name": "888888",
+            "jieduan": "水电工程",
+            "huxing": "三室",
+            "mianji": "60",
+            "juli": "10km",
+            "yusuan": "19"
+        },
+        {
+            "id":"124",
+            "name": "9999999",
+            "jieduan": "水电工程",
+            "huxing": "三室",
+            "mianji": "60",
+            "juli": "10km",
+            "yusuan": "19"
+        },
+        {
+            "id":"129",
+            "name": "000000",
+            "jieduan": "水电工程",
+            "huxing": "三室",
+            "mianji": "60",
+            "juli": "10km",
+            "yusuan": "19"
+        }
+    ]
+}
